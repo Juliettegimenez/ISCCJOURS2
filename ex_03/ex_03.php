@@ -7,8 +7,3 @@ $my_array = array (
     "string" => "Geckos", 
     );
     ?>
-
-
-
-
-

@@ -5,7 +5,3 @@
     $bool = true;
     $string = "forty two";
 ?> 
-
-
-
-
