@@ -1,4 +1,3 @@
 <?php
-global $var;
-unset ($var);
+unset($var);
 ?>
