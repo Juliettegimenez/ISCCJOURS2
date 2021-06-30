@@ -1,5 +1,5 @@
 <?php
-function print_movie_from_ndr (int $nbr){
+function print_movie_from_nbr (int $nbr){
     switch ($nbr){
     case 3 :
         echo "The Three brothers\n";
@@ -16,5 +16,5 @@ function print_movie_from_ndr (int $nbr){
     default:
         echo "I don't know\n";
     }
-}
+};
 ?>
