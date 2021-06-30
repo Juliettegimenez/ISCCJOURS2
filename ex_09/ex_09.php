@@ -14,7 +14,7 @@ function print_movie_from_nbr (int $nbr){
         echo "28 Days Later\n";
         break;
     default:
-        echo "I don't know\n";
+        echo "I don't know.\n";
     }
 };
 ?>
