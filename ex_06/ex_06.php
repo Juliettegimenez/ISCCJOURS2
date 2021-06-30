@@ -1,6 +1,5 @@
 <?php
-$func = function ($bottle)
-{
+$func = function ($bottle) {
     return strtoupper ($bottle);
-    };
-    ?>
+};
+?>

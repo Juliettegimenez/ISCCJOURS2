@@ -7,3 +7,4 @@ function get_angry_dog(int $nbr)
     }
     return $var;
 }
+?>
