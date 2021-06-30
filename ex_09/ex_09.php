@@ -1,20 +1,20 @@
 <?php
-function print_movie_from_nbr (int $nbr){
-    switch ($nbr){
-    case 3 :
-        echo "The Three brothers\n";
+function print_movie_from_nbr(int $nbr) {
+    switch ($nbr) {
+    case 3:
+        echo "The Three brothers" . "\n";
         break;
-    case 6 :
-        echo "The Sixth Sense\n";
+    case 6:
+        echo "The Sixth Sense" . "\n";
         break;
-    case 23 :
-        echo "The Number 23\n";
+    case 23:
+        echo "The Number 23" . "\n";
         break;
-    case 28 :
-        echo "28 Days Later\n";
+    case 28:
+        echo "28 Days Later" . "\n";
         break;
     default:
-        echo "I don't know.\n";
+        echo "I don't know." . "\n";
     }
 };
 ?>
